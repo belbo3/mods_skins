@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "better-saplings--mushrooms-texture-pack-3d-mushrooms-update_2.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "original"
+  }
+}

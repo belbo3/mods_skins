@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "chainsaw-man-skinpack-10-skins_6.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "original"
+  }
+}

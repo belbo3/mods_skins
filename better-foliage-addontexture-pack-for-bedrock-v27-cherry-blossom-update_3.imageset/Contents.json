@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "better-foliage-addontexture-pack-for-bedrock-v27-cherry-blossom-update_3.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "original"
+  }
+}

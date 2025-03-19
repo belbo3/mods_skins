@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "bluearchive-skin-pack--update-3_2.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "original"
+  }
+}
