@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "meme-skins-55-60-new-skins-big-update_2.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "original"
+  }
+}

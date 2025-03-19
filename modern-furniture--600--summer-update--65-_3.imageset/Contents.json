@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "modern-furniture--600--summer-update--65-_3.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "original"
+  }
+}

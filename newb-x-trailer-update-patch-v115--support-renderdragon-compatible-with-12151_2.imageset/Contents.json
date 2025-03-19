@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "newb-x-trailer-update-patch-v115--support-renderdragon-compatible-with-12151_2.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "original"
+  }
+}

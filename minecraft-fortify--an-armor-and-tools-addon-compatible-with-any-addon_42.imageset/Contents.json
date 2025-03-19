@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "minecraft-fortify--an-armor-and-tools-addon-compatible-with-any-addon_42.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "original"
+  }
+}
