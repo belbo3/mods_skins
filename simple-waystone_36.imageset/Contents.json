@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "simple-waystone_36.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
