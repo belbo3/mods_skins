@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "fog-shader-v153--more-fog-update_4.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "original"
+  }
+}
