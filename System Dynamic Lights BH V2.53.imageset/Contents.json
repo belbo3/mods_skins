@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "System Dynamic Lights BH V2.53.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "original"
+  }
+}
