@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Starter_Castle13.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
