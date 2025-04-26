@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Mushroom_Nether_Portal32.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
